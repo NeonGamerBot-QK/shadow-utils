@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "console.log('Test')",
-    "pretest": "console.log('pretest')"
+    "pretest": "console.log(true)"
   },
   "typings": "index.ts",
   "keywords": [
