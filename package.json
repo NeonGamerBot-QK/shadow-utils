@@ -4,8 +4,8 @@
   "description": "Shadow-bot utils and api",
   "main": "src/index.js",
   "scripts": {
-    "test": "console.log('Test')",
-    "pretest": "console.log(true)"
+    "test": "true",
+    "pretest": "true"
   },
   "typings": "index.ts",
   "keywords": [
