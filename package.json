@@ -1,5 +1,5 @@
 {
-  "name": "shadow-utils",
+  "name": "shadowbot-utils",
   "version": "1.0.0",
   "description": "Shadow-bot utils and api",
   "main": "src/index.js",
@@ -32,5 +32,14 @@
     "ms": "^2.0.0",
     "node-fetch": "^2.6.1",
     "websocket": "^1.0.34"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeonGamerBot-QK/shadow-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shaodow-bot/bugs"
+  },
+  "homepage": "https://github.com/NeonGamerBot-QK/shadow-utils#readme"
+
 }
