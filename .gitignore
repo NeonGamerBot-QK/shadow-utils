@@ -1,0 +1,8 @@
+node_modules
+src/logges.txt
+src/ws.js
+src/ws-client.js
+src/test.js
+src/cloud.json
+src/discord.js
+.env

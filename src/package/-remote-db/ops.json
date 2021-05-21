@@ -1,0 +1,10 @@
+{
+    "debug": false,
+    "uri": null,
+    "reciver": false,
+    "path": null,
+    "accounts": null,
+    "username": null,
+    "password": null,
+    "port": 3000
+}

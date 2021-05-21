@@ -1,0 +1,36 @@
+{
+  "name": "shadow-utils",
+  "version": "1.0.0",
+  "description": "Shadow-bot utils and api",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "console.log('Test')",
+    "pretest": "console.log('pretest')"
+  },
+  "typings": "index.ts",
+  "keywords": [
+    "Shadow",
+    "utils",
+    "shadow-utils",
+    "shadow-api",
+    "api",
+    "api-shadow"
+  ],
+  "author": "Neon",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.0.3",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-together": "^1.1.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "gitcord": "^1.0.3",
+    "ms": "^2.0.0",
+    "node-fetch": "^2.6.1",
+    "websocket": "^1.0.34"
+  }
+}
