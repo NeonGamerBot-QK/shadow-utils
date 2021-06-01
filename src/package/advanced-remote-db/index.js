@@ -229,7 +229,7 @@ timestamp = Date.now()
    app.delete('/delete', (req,res) => {
     if(!this.accounts.get(`${req.headers['username']}@${req.headers['password']}`)) return res.status(401).json({ status: 401, error: 'INVALID_LOGIN'});
      const body = req.body
-      console.log(body)
+      // console.log(body)
       if(this.Isclosed) return res.status(403).json({ error: 'closed' })
       const Table = JSON.parse(fs.readFileSync(`${this.path}/${body.table}/${body.table}.json`))
       delete Table[body.key]

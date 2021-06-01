@@ -33,6 +33,7 @@
     "gitcord": "^1.0.3",
     "ms": "^2.0.0",
     "node-fetch": "^2.6.1",
+    "shadowbot-utils": "^1.0.1",
     "websocket": "^1.0.34"
   },
   "repository": {
