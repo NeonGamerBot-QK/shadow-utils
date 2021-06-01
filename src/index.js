@@ -19,5 +19,6 @@ create,
 default: create('DEFAULT'), // dont change
 RemoteDB: {  aoijs: require('./package/-remote-db/index').aoijs}, 
 RemoteDB: require('./package/-remote-db/index').default,
+ARemoteDB: require('./package/advanced-remote-db/index')
 }
 
